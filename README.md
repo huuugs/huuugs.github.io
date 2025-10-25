@@ -1,1 +1,1 @@
-# huuugs.github.io
+# huuugs.site
